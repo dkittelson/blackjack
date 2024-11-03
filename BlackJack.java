@@ -1,6 +1,6 @@
 import java.awt.*;
 import java.awt.event.*;
-```mport java.util.ArrayList;
+import java.util.ArrayList;
 import java.util.Random;
 import javax.swing.*;
 
